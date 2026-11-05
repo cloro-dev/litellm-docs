@@ -630,6 +630,7 @@ const sidebars = {
             { type: "doc", id: "proxy/access_management/overview", label: "Overview" },
             "proxy/access_management/llm",
             "proxy/access_management/mcp",
+            "proxy/access_management/agents",
           ],
         },
         {
